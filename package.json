@@ -1,0 +1,14 @@
+{
+  "name": "ts-template",
+  "version": "1.0.0",
+  "description": "template engin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "weivea",
+  "license": "ISC"
+}
